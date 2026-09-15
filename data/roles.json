@@ -1,0 +1,176 @@
+{
+  "generated_and_any_learned_judge_n": 3696,
+  "generated_and_any_learned_judge_share": 0.2503556187766714,
+  "generated_and_llm_judge_n": 3272,
+  "generated_and_llm_judge_share": 0.22163516900359007,
+  "included_n": 14767,
+  "valid_n": 14763,
+  "within_llm_intersection": {
+    "any_additional_scoring_n": 2020,
+    "exact_model_material_and_llm_scoring_n": 359,
+    "human_judge_n": 226,
+    "human_material_n": 2530,
+    "llm_only_scoring_n": 1252,
+    "material_patterns": [
+      {
+        "n": 587,
+        "tags": [
+          "generative_model"
+        ]
+      },
+      {
+        "n": 2163,
+        "tags": [
+          "generative_model",
+          "human_or_real_world"
+        ]
+      },
+      {
+        "n": 367,
+        "tags": [
+          "generative_model",
+          "human_or_real_world",
+          "program_or_simulation"
+        ]
+      },
+      {
+        "n": 155,
+        "tags": [
+          "generative_model",
+          "program_or_simulation"
+        ]
+      }
+    ],
+    "model_only_material_n": 587,
+    "scoring_patterns": [
+      {
+        "n": 7,
+        "tags": [
+          "execution_or_environment",
+          "human_judge",
+          "llm_judge"
+        ]
+      },
+      {
+        "n": 1,
+        "tags": [
+          "execution_or_environment",
+          "human_judge",
+          "llm_judge",
+          "other_model_judge"
+        ]
+      },
+      {
+        "n": 1,
+        "tags": [
+          "execution_or_environment",
+          "human_judge",
+          "llm_judge",
+          "other_model_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 10,
+        "tags": [
+          "execution_or_environment",
+          "human_judge",
+          "llm_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 251,
+        "tags": [
+          "execution_or_environment",
+          "llm_judge"
+        ]
+      },
+      {
+        "n": 8,
+        "tags": [
+          "execution_or_environment",
+          "llm_judge",
+          "other_model_judge"
+        ]
+      },
+      {
+        "n": 9,
+        "tags": [
+          "execution_or_environment",
+          "llm_judge",
+          "other_model_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 114,
+        "tags": [
+          "execution_or_environment",
+          "llm_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 110,
+        "tags": [
+          "human_judge",
+          "llm_judge"
+        ]
+      },
+      {
+        "n": 7,
+        "tags": [
+          "human_judge",
+          "llm_judge",
+          "other_model_judge"
+        ]
+      },
+      {
+        "n": 20,
+        "tags": [
+          "human_judge",
+          "llm_judge",
+          "other_model_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 70,
+        "tags": [
+          "human_judge",
+          "llm_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 1252,
+        "tags": [
+          "llm_judge"
+        ]
+      },
+      {
+        "n": 71,
+        "tags": [
+          "llm_judge",
+          "other_model_judge"
+        ]
+      },
+      {
+        "n": 182,
+        "tags": [
+          "llm_judge",
+          "other_model_judge",
+          "reference_or_metric"
+        ]
+      },
+      {
+        "n": 1159,
+        "tags": [
+          "llm_judge",
+          "reference_or_metric"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "charts": {
+    "fig1": {
+      "data": "figures/fig1_selection_data.csv",
+      "preview": "figures/fig1_selection.png",
+      "question": "Which records reach analysis?"
+    },
+    "fig2": {
+      "data": "figures/fig2_targets_domains_data.csv",
+      "preview": "figures/fig2_targets_domains.png",
+      "question": "What systems and domains?"
+    },
+    "fig3": {
+      "data": "figures/fig3_materials_setup_data.csv",
+      "preview": "figures/fig3_materials_setup.png",
+      "question": "What materials and conditions?"
+    },
+    "fig4": {
+      "data": "figures/fig4_scoring_data.csv",
+      "preview": "figures/fig4_scoring.png",
+      "question": "What counts as success and where is scoring changing?"
+    },
+    "fig5": {
+      "data": "figures/fig5_material_scoring_data.csv",
+      "preview": "figures/fig5_material_scoring.png",
+      "question": "How do generation and scoring coexist?"
+    }
+  },
+  "palette": [
+    "#72767D",
+    "#BD8A2E",
+    "#2563A6"
+  ],
+  "renderer": "Matplotlib static SVG/PNG"
+}

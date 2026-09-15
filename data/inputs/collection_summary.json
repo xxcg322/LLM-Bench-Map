@@ -1,0 +1,49 @@
+{
+  "metadata_n": 173032,
+  "metadata_decisions": {
+    "semantic_unresolved_not_routed": 25079,
+    "excluded_by_metadata": 131525,
+    "fulltext_candidate": 16428,
+    "technical_unresolved": 0
+  },
+  "candidate_n": 16428,
+  "source_ready_n": 16376,
+  "source_unavailable_n": 52,
+  "source_available_fraction": 0.9968346725103482,
+  "failure_types": {
+    "404": 50,
+    "RuntimeError": 2
+  },
+  "years": {
+    "2022": {
+      "m0_n": 27904,
+      "candidate_n": 213,
+      "source_ready_n": 213,
+      "source_unavailable_n": 0
+    },
+    "2023": {
+      "m0_n": 31391,
+      "candidate_n": 1046,
+      "source_ready_n": 1042,
+      "source_unavailable_n": 4
+    },
+    "2024": {
+      "m0_n": 36560,
+      "candidate_n": 3095,
+      "source_ready_n": 3087,
+      "source_unavailable_n": 8
+    },
+    "2025": {
+      "m0_n": 42629,
+      "candidate_n": 5810,
+      "source_ready_n": 5790,
+      "source_unavailable_n": 20
+    },
+    "2026": {
+      "m0_n": 34548,
+      "candidate_n": 6264,
+      "source_ready_n": 6244,
+      "source_unavailable_n": 20
+    }
+  }
+}

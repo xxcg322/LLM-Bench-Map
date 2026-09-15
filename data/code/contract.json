@@ -1,0 +1,76 @@
+{
+  "analysis_id": "llm-bench-map",
+  "analysis_type": "post-data descriptive and exploratory; not confirmatory preregistration",
+  "sources": {
+    "results": {
+      "path": "data/inputs/results.json",
+      "sha256": "095fc4987d5c255e4323098b51272141d86f4867f51ba95d2efbdfd1ca1f36a4"
+    },
+    "paper_index": {
+      "path": "data/inputs/paper_index.csv",
+      "sha256": "6b525a6a4f6408acf5302f143e493ae7f28c1a01ff3894a67c30cf7920f436a2"
+    },
+    "summary": {
+      "path": "data/inputs/summary.json",
+      "sha256": "ff5321f6f508034f663991e890b90f0741452d9b159e44dc7bcfe408d64d9dd1"
+    },
+    "versions": {
+      "path": "data/inputs/versions.json",
+      "sha256": "440b2377bb806f988b6b2a43efc9437f4cf006f349d571663b50efac63a01c2d"
+    },
+    "design_reference": {
+      "path": "data/inputs/design_reference.json",
+      "sha256": "6b9298bb33713f23931a089bd396e04a825bc42e30e9b3e9d7053e0ce87e5243"
+    },
+    "roles_reference": {
+      "path": "data/inputs/roles_reference.json",
+      "sha256": "f6c8755734061b6da0215ec033f267f359b8aeb006bab2bb6b109188133f4a41"
+    },
+    "collection_summary": {
+      "path": "data/inputs/collection_summary.json",
+      "sha256": "58508482a7ce877f589dedfd2b8a02ec2fc3a1f309dcfbaeeef8ac978c9b7c03"
+    },
+    "design_code": {
+      "path": "data/inputs/design_code.py",
+      "sha256": "9cb243e39d1ac82ff2f8c3588f97fcc7579830a24fab23daa56506514a0786c2"
+    },
+    "roles_code": {
+      "path": "data/inputs/roles_code.py",
+      "sha256": "98797849b170c7a0a1e753248cab6f7d095663c076507d505ae1e46852223287"
+    }
+  },
+  "included_decisions": [
+    "included",
+    "included_partial_labels"
+  ],
+  "fields": [
+    "target_system",
+    "evaluation_domain",
+    "evaluation_setup",
+    "modality",
+    "material_origin",
+    "scoring_source",
+    "task_language"
+  ],
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "primary_years": [
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "start_month": "2022-01",
+  "end_month": "2026-08",
+  "minimum_display_n": 20,
+  "language_sentinels": [
+    "unclear",
+    "not_applicable",
+    "multilingual_unspecified"
+  ],
+  "interpretation": "Published research supply and evaluation requirements, not adoption, importance, quality or causal change."
+}

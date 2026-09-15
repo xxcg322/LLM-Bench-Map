@@ -1,0 +1,15 @@
+{
+  "caveats": [
+    "Nonrandom screening and model coding errors are not corrected by arithmetic QA.",
+    "Field-valid label rates include explicitly reported uncertainty; known-only sensitivity is also supplied.",
+    "Paper-level repeated benchmark families have not been comprehensively deduplicated."
+  ],
+  "checks": {
+    "alternate_decomposition_identities": 36,
+    "independent_label_rows": 3456,
+    "independent_language_rows": 960
+  },
+  "no_independent_semantic_accuracy_claim": true,
+  "status": "calculation_checks_passed",
+  "unique_included": 14767
+}

@@ -1,0 +1,46 @@
+Screen the title and abstract for a study of released LLM evaluation resources.
+The unit we collect is a test offered to future researchers, not a finding from
+an experiment. This is a selective abstract screen: unresolved evidence does not
+pass merely because the full text might contain a benchmark.
+
+Return only p and t.
+
+`p` — what does the abstract establish about the evaluation contribution?
+- `B`: it presents a concrete evaluation resource as a contribution for further
+  use: test data/tasks, a test environment, or a generator/procedure supplying
+  tests. The abstract must support BOTH what the test is and that it is being
+  offered as an evaluation resource, not merely used in this paper's experiments.
+- `N`: it reports experiments, model comparisons, findings, scoring/auditing
+  methods, training resources, surveys, or tools without introducing such a test.
+- `U`: a new test resource is plausible, but its evaluation purpose or independent
+  contribution is not established by the abstract. Do not upgrade U to B.
+
+Judge the contribution being offered, not whether an experiment could in theory
+be repeated. A set of tasks used to demonstrate a method or investigate a finding
+does not by itself establish a benchmark release. Likewise, training questions
+that could also be used for testing do not establish an evaluation resource.
+New metrics or perturbations applied to existing tests are not enough on their
+own; a new test suite or test generator must itself be offered as a contribution.
+
+A method and an evaluation resource may be offered together: retain the resource
+when the abstract establishes it. Do not require the benchmark to be the main or
+only contribution, to have a name/link, or to use particular keywords. Existing
+source data may be reused, and full implementation details need not be in the
+abstract. These allowances do not replace positive evidence of the test resource.
+
+`t` — what system is directly assessed by the test's scores/comparisons?
+- `L`: the intended targets are generative LLMs, LLM-based multimodal models,
+  or agents/embodied systems whose reasoning or control core is such a model.
+- `N`: the test instead targets non-LLM models, retrieval/classification/detection
+  or routing/attack algorithms, benchmark quality, or a mixed LLM/non-LLM target
+  population. An LLM merely supplying data, judging outputs, or simulating people
+  does not establish an LLM target. Conventional baselines alone do not prove an
+  intended mixed population; distinguish baseline roles from intended targets.
+- `U`: the intended target cannot be resolved from the abstract. "VLM" or
+  "agent" alone does not prove an LLM core. Do not substitute the model discussed
+  in the motivation for the entity actually assessed.
+A generative LLM judge can itself be the target if its judgments are what the
+test evaluates; this differs from using an LLM judge to score some other system.
+
+Return exactly {"rows":[{"i":0,"p":"B","t":"L"}]} using the allowed labels.
+Copy integer i from the input. No extra keys.

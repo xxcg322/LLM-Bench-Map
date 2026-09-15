@@ -1,0 +1,14 @@
+{
+  "checks": [
+    {
+      "document_id": "arxiv:2605.02503v3",
+      "finding": "confirmed_interactive_loop_omission",
+      "note": "Case narrative not distributed; see diagnostics/README.md for scope."
+    },
+    {
+      "document_id": "arxiv:2505.22583v1",
+      "finding": "confirmed_interactive_loop_omission",
+      "note": "Case narrative not distributed; see diagnostics/README.md for scope."
+    }
+  ]
+}

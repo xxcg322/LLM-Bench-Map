@@ -1,0 +1,28 @@
+panel,year,metric,n,valid_n,value,unit
+A,2024,execution_or_environment,284,1681,0.16894705532421178,proportion
+A,2024,human_judge,165,1681,0.09815585960737656,proportion
+A,2024,llm_judge,433,1681,0.2575847709696609,proportion
+A,2024,other_model_judge,181,1681,0.10767400356930398,proportion
+A,2024,reference_or_metric,1221,1681,0.7263533610945866,proportion
+A,2024,unclear,2,1681,0.001189767995240928,proportion
+A,2025,execution_or_environment,658,3283,0.20042643923240938,proportion
+A,2025,human_judge,231,3283,0.07036247334754797,proportion
+A,2025,llm_judge,1166,3283,0.35516296070667075,proportion
+A,2025,other_model_judge,292,3283,0.08894303990252818,proportion
+A,2025,reference_or_metric,2240,3283,0.6823027718550106,proportion
+A,2025,unclear,7,3283,0.0021321961620469083,proportion
+A,2026,execution_or_environment,1631,5734,0.2844436693407743,proportion
+A,2026,human_judge,268,5734,0.04673875130798744,proportion
+A,2026,llm_judge,2309,5734,0.40268573421695153,proportion
+A,2026,other_model_judge,401,5734,0.06993372863620509,proportion
+A,2026,reference_or_metric,3415,5734,0.5955702825252878,proportion
+A,2026,unclear,6,5734,0.0010463899546564353,proportion
+B,2024,agent,40,152,0.2631578947368421,proportion
+B,2024,non_agent,393,1529,0.2570307390451275,proportion
+B,2025,agent,155,428,0.3621495327102804,proportion
+B,2025,non_agent,1011,2855,0.3541155866900175,proportion
+B,2026,agent,714,1624,0.4396551724137931,proportion
+B,2026,non_agent,1595,4110,0.3880778588807786,proportion
+C,2024_to_2026,composition,,"[1681, 5734]",0.5562725646636825,percentage_points
+C,2024_to_2026,within,,"[1681, 5734]",13.953823760065385,percentage_points
+C,2024_to_2026,delta,,"[1681, 5734]",14.51009632472906,percentage_points

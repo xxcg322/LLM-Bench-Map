@@ -1,0 +1,251 @@
+[
+  {
+    "document_id": "arxiv:2307.05410v1",
+    "preselected": true,
+    "task_language": [
+      "pt",
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2409.16202v2",
+    "preselected": true,
+    "task_language": [
+      "zh"
+    ],
+    "language_finding": "possible_missing_language",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2305.07340v1",
+    "preselected": true,
+    "task_language": [
+      "zh"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2506.08400v3",
+    "preselected": true,
+    "task_language": [
+      "en",
+      "multilingual_unspecified"
+    ],
+    "language_finding": "supported_coarse_incomplete",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2608.09802v1",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2404.07824v1",
+    "preselected": true,
+    "task_language": [
+      "ja"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2505.18331v1",
+    "preselected": true,
+    "task_language": [
+      "fa"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2511.15183v1",
+    "preselected": true,
+    "task_language": [
+      "en",
+      "hi",
+      "te"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2604.18914v1",
+    "preselected": true,
+    "task_language": [
+      "fr",
+      "ar",
+      "hi"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2603.12872v1",
+    "preselected": true,
+    "task_language": [
+      "pt"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2201.03533v2",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2210.12814v1",
+    "preselected": true,
+    "task_language": null,
+    "language_finding": "not_labeled_scope_excluded",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2204.05660v1",
+    "preselected": false,
+    "task_language": null,
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2212.09577v3",
+    "preselected": false,
+    "task_language": null,
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2210.12775v1",
+    "preselected": false,
+    "task_language": null,
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2209.04529v1",
+    "preselected": false,
+    "task_language": null,
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2309.07544v2",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2307.05113v3",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2410.10563v3",
+    "preselected": true,
+    "task_language": [
+      "en",
+      "zh",
+      "es",
+      "ar",
+      "fr",
+      "ru",
+      "ja",
+      "hi",
+      "te"
+    ],
+    "language_finding": "one_code_not_source_supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2410.04617v2",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2410.18491v2",
+    "preselected": false,
+    "task_language": null,
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2505.11935v2",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2508.11987v3",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2603.16654v3",
+    "preselected": true,
+    "task_language": [
+      "en"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  },
+  {
+    "document_id": "arxiv:2606.27187v1",
+    "preselected": true,
+    "task_language": [
+      "en",
+      "zh",
+      "multilingual_unspecified"
+    ],
+    "language_finding": "supported",
+    "title": "",
+    "language_note": "Case narrative not distributed; see diagnostics/README.md for scope."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "checks": [
+    {
+      "document_id": "arxiv:2311.13053v1",
+      "finding": "fixed_only_defensible_control",
+      "note": "Case narrative not distributed; see diagnostics/README.md for scope."
+    },
+    {
+      "document_id": "arxiv:2605.22664v5",
+      "finding": "confirmed_interactive_loop_omission",
+      "note": "Case narrative not distributed; see diagnostics/README.md for scope."
+    },
+    {
+      "document_id": "arxiv:2507.11059v3",
+      "finding": "confirmed_interactive_loop_omission",
+      "note": "Case narrative not distributed; see diagnostics/README.md for scope."
+    }
+  ]
+}

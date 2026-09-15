@@ -1,0 +1,52 @@
+{
+  "schema_version": "m0-v4-production-freeze-v1",
+  "model_id": "m0-v4-char-rank-top15",
+  "status": "frozen_before_2024_frame_inspection",
+  "frozen_at_local": "2026-09-04T17:48:00+08:00",
+  "target_population": "Papers whose primary or dominant contribution is a reusable, scored benchmark release for LLM-centred systems.",
+  "input": "Title, abstract, primary arXiv category and all arXiv categories.",
+  "model": {
+    "type": "character TF-IDF plus weighted logistic SGD",
+    "path": "results/protocol_v1_execution_2026_09/m0_v4_month_blocked_development_v1/m0_v4_char.joblib",
+    "sha256": "f24db350b9b35699d480b22f0764b0d6090b8e73606e930b7209114c81292488",
+    "bytes": 1563601
+  },
+  "monthly_top_fraction": 0.15,
+  "threshold_rule": "Within each complete monthly frame, retain the highest-scoring 15 percent, including all rows tied at the boundary.",
+  "lexical_rescue": "none",
+  "reason_for_simplification": {
+    "development_observation": "In month-blocked development, the character model's top 10 percent alone retained all 83 of 83 clear source-confirmed positives. The proposed V4 lexical guard rescued zero additional known positives, increased actual workload to 13.4-14.4 percent, and added six known negatives below the score boundary.",
+    "decision": "Remove the lexical guard. Use a 15 percent score route rather than the exposed minimum 10 percent, providing a five-percentage-point recall margin at similar workload to the discarded guarded route.",
+    "interpretation": "The 15 percent value is a conservative development choice, not an estimated population-recall guarantee."
+  },
+  "development_evidence": {
+    "manifest": {
+      "path": "results/protocol_v1_execution_2026_09/m0_v4_month_blocked_development_v1/manifest.json",
+      "sha256": "fc1b74f5927a9e914ed720ac8c7cc7ad427497e81e9b7e709af7c69f5d6e0073"
+    },
+    "heldout_predictions": {
+      "path": "results/protocol_v1_execution_2026_09/m0_v4_month_blocked_development_v1/heldout_strong_predictions.csv",
+      "sha256": "0fd7993b9fd081a52ad0b71db2675e0a3daa8aa0b4253ae27239b44a1ef4c0aa"
+    },
+    "fold_metrics": {
+      "path": "results/protocol_v1_execution_2026_09/m0_v4_month_blocked_development_v1/fold_metrics.csv",
+      "sha256": "6d6bd80dcf5f65dfaaffd8395bf65e19f896afcc22a9f68ae761d045d538d150"
+    },
+    "clear_source_labels": 222,
+    "source_positive_labels": 83,
+    "source_negative_labels": 139,
+    "known_positive_top10_without_rescue": "83/83 across three held-out months",
+    "m0_v3_known_positive": "80/83; all three observed misses occurred in the August low route"
+  },
+  "scorer": {
+    "path": "scripts/protocol_v1/score_m0_v4_frame.py",
+    "sha256": "240a79d71cbd7ecbecbee3e92a218e49a82afd022ed6fcece8ce906853845be5",
+    "bytes": 4579
+  },
+  "month_assignment": "Use source frame membership and first-submission date; never infer month from the arXiv identifier prefix.",
+  "downstream_role": "M0 only chooses which records GLM metadata triage reads. It never decides benchmark eligibility or research labels.",
+  "required_validation": "June 2024 must remain untouched by model development. Run all M0-retained records plus the preregistered 500 near-threshold and seeded random sample of 2,000 M0-excluded records through frozen GLM metadata triage, then full-text audit every low-route survivor.",
+  "claim_boundary": "The three 2026 months demonstrate improvement on known hard examples and a bounded workload. Population recall remains unknown until probability-sample auditing on the untouched temporal month.",
+  "api_calls_for_freeze": 0,
+  "local_gpu_used": false
+}

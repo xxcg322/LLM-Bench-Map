@@ -1,0 +1,9 @@
+{
+  "unique_papers": 14767,
+  "field_rows_reconciled": 2592,
+  "language_rows_reconciled": 9,
+  "prior_2024_2026_decomposition_matched": true,
+  "source_hashes_unchanged": true,
+  "semantic_accuracy_measured": false,
+  "new_api_calls": 0
+}

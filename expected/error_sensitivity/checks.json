@@ -1,0 +1,31 @@
+{
+  "n_papers": 14767,
+  "published_rates_matched": 38,
+  "scenario_rows": 200,
+  "exhaustive_small_population_bounds": "passed",
+  "new_model_calls": 0,
+  "new_source_reviews": 0,
+  "estimates_accuracy": false,
+  "source_hashes": [
+    {
+      "path": "data/papers.csv",
+      "sha256": "6dc747deaa589686d5cba76846ec2252f28f8145612bdce535cbf1c482dcb889"
+    },
+    {
+      "path": "data/tables/label_rates.csv",
+      "sha256": "be006fc0e6204f442ef02fd242b9421ccb3e6aa891be57e3bad2ea3a15e33c07"
+    },
+    {
+      "path": "diagnostics/interaction/targeted_notes_part1.json",
+      "sha256": "1048a101be8b251a0e37e3b1e5ca6f293655ec5457aacdd2588ab92f8f18fccd"
+    },
+    {
+      "path": "diagnostics/interaction/targeted_notes_part2.json",
+      "sha256": "5ff502fedc62e6b443e4f6dd09ece6316cca981d4bcf2332c456d2d87436b9b4"
+    },
+    {
+      "path": "diagnostics/language/source_review.json",
+      "sha256": "d1e79987f9a8d35449af3f0728776c369d9cecca1c5f4186d1f0bb79aea8d38a"
+    }
+  ]
+}

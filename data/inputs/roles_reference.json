@@ -1,0 +1,2670 @@
+{
+  "month_table": [
+    {
+      "month": "2022-01",
+      "year": "2022",
+      "calendar_month": 1,
+      "included_n": 4,
+      "frame_n": 13537,
+      "m0_retained_n": 2031,
+      "same_year_version_n": 4,
+      "identified_per10000_frame": 2.954864445593558,
+      "included_per_m0_retained": 0.0019694731659281144,
+      "fulltext_candidates_n": 7,
+      "decision_counts": {
+        "included": 4,
+        "excluded": 2,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.025,
+      "frame_share_within_year": 0.07278465699215536,
+      "frame_normalized_month_index": 0.34347898352663075,
+      "same_year_version_month_share": 0.0392156862745098,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2022-02",
+      "year": "2022",
+      "calendar_month": 2,
+      "included_n": 4,
+      "frame_n": 14028,
+      "m0_retained_n": 2105,
+      "same_year_version_n": 4,
+      "identified_per10000_frame": 2.8514399771884804,
+      "included_per_m0_retained": 0.0019002375296912114,
+      "fulltext_candidates_n": 8,
+      "decision_counts": {
+        "included": 4,
+        "excluded": 4
+      },
+      "within_year_month_share": 0.025,
+      "frame_share_within_year": 0.07542462645238646,
+      "frame_normalized_month_index": 0.3314567293983462,
+      "same_year_version_month_share": 0.0392156862745098,
+      "local_neighbor_ratio": 0.7500774737239823
+    },
+    {
+      "month": "2022-03",
+      "year": "2022",
+      "calendar_month": 3,
+      "included_n": 8,
+      "frame_n": 17211,
+      "m0_retained_n": 2582,
+      "same_year_version_n": 5,
+      "identified_per10000_frame": 4.6481901109755395,
+      "included_per_m0_retained": 0.003098373353989156,
+      "fulltext_candidates_n": 12,
+      "decision_counts": {
+        "included": 8,
+        "excluded": 4
+      },
+      "within_year_month_share": 0.05,
+      "frame_share_within_year": 0.09253872582492324,
+      "frame_normalized_month_index": 0.5403143338562548,
+      "same_year_version_month_share": 0.049019607843137254,
+      "local_neighbor_ratio": 0.954787548064416
+    },
+    {
+      "month": "2022-04",
+      "year": "2022",
+      "calendar_month": 4,
+      "included_n": 10,
+      "frame_n": 14524,
+      "m0_retained_n": 2179,
+      "same_year_version_n": 8,
+      "identified_per10000_frame": 6.885155604516662,
+      "included_per_m0_retained": 0.004589261128958238,
+      "fulltext_candidates_n": 14,
+      "decision_counts": {
+        "included": 10,
+        "excluded": 4
+      },
+      "within_year_month_share": 0.0625,
+      "frame_share_within_year": 0.0780914795120089,
+      "frame_normalized_month_index": 0.8003433971357753,
+      "same_year_version_month_share": 0.0784313725490196,
+      "local_neighbor_ratio": 0.6961523979946339
+    },
+    {
+      "month": "2022-05",
+      "year": "2022",
+      "calendar_month": 5,
+      "included_n": 24,
+      "frame_n": 15860,
+      "m0_retained_n": 2379,
+      "same_year_version_n": 20,
+      "identified_per10000_frame": 15.132408575031526,
+      "included_per_m0_retained": 0.01008827238335435,
+      "fulltext_candidates_n": 26,
+      "decision_counts": {
+        "included": 24,
+        "excluded": 2
+      },
+      "within_year_month_share": 0.15,
+      "frame_share_within_year": 0.08527477726937904,
+      "frame_normalized_month_index": 1.7590195460277427,
+      "same_year_version_month_share": 0.19607843137254902,
+      "local_neighbor_ratio": 2.163289924083653
+    },
+    {
+      "month": "2022-06",
+      "year": "2022",
+      "calendar_month": 6,
+      "included_n": 11,
+      "frame_n": 15482,
+      "m0_retained_n": 2323,
+      "same_year_version_n": 5,
+      "identified_per10000_frame": 7.1050251905438575,
+      "included_per_m0_retained": 0.004735256134309083,
+      "fulltext_candidates_n": 14,
+      "decision_counts": {
+        "excluded": 2,
+        "included": 11,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.06875,
+      "frame_share_within_year": 0.08324237715539258,
+      "frame_normalized_month_index": 0.8259014500710503,
+      "same_year_version_month_share": 0.049019607843137254,
+      "local_neighbor_ratio": 0.8311594799725192
+    },
+    {
+      "month": "2022-07",
+      "year": "2022",
+      "calendar_month": 7,
+      "included_n": 3,
+      "frame_n": 15273,
+      "m0_retained_n": 2291,
+      "same_year_version_n": 2,
+      "identified_per10000_frame": 1.9642506383814575,
+      "included_per_m0_retained": 0.0013094718463553033,
+      "fulltext_candidates_n": 5,
+      "decision_counts": {
+        "included": 3,
+        "excluded": 2
+      },
+      "within_year_month_share": 0.01875,
+      "frame_share_within_year": 0.08211864270083392,
+      "frame_normalized_month_index": 0.2283281771754076,
+      "same_year_version_month_share": 0.0196078431372549,
+      "local_neighbor_ratio": 0.37300513586727446
+    },
+    {
+      "month": "2022-08",
+      "year": "2022",
+      "calendar_month": 8,
+      "included_n": 5,
+      "frame_n": 14590,
+      "m0_retained_n": 2189,
+      "same_year_version_n": 3,
+      "identified_per10000_frame": 3.4270047978067173,
+      "included_per_m0_retained": 0.0022841480127912287,
+      "fulltext_candidates_n": 5,
+      "decision_counts": {
+        "included": 5
+      },
+      "within_year_month_share": 0.03125,
+      "frame_share_within_year": 0.0784463430239748,
+      "frame_normalized_month_index": 0.39836146333104866,
+      "same_year_version_month_share": 0.029411764705882353,
+      "local_neighbor_ratio": 0.7098864095030114
+    },
+    {
+      "month": "2022-09",
+      "year": "2022",
+      "calendar_month": 9,
+      "included_n": 12,
+      "frame_n": 15603,
+      "m0_retained_n": 2341,
+      "same_year_version_n": 10,
+      "identified_per10000_frame": 7.690828686791002,
+      "included_per_m0_retained": 0.0051260145237078175,
+      "fulltext_candidates_n": 17,
+      "decision_counts": {
+        "excluded": 5,
+        "included": 12
+      },
+      "within_year_month_share": 0.075,
+      "frame_share_within_year": 0.08389296026066338,
+      "frame_normalized_month_index": 0.8939963468563737,
+      "same_year_version_month_share": 0.09803921568627451,
+      "local_neighbor_ratio": 0.8472620559004793
+    },
+    {
+      "month": "2022-10",
+      "year": "2022",
+      "calendar_month": 10,
+      "included_n": 26,
+      "frame_n": 17654,
+      "m0_retained_n": 2649,
+      "same_year_version_n": 19,
+      "identified_per10000_frame": 14.727540500736376,
+      "included_per_m0_retained": 0.009815024537561345,
+      "fulltext_candidates_n": 39,
+      "decision_counts": {
+        "included": 26,
+        "excluded": 13
+      },
+      "within_year_month_share": 0.1625,
+      "frame_share_within_year": 0.09492061273099733,
+      "frame_normalized_month_index": 1.7119569219440354,
+      "same_year_version_month_share": 0.18627450980392157,
+      "local_neighbor_ratio": 1.859668187811217
+    },
+    {
+      "month": "2022-11",
+      "year": "2022",
+      "calendar_month": 11,
+      "included_n": 14,
+      "frame_n": 17182,
+      "m0_retained_n": 2578,
+      "same_year_version_n": 8,
+      "identified_per10000_frame": 8.148061925270632,
+      "included_per_m0_retained": 0.005430566330488751,
+      "fulltext_candidates_n": 23,
+      "decision_counts": {
+        "excluded": 9,
+        "included": 14
+      },
+      "within_year_month_share": 0.0875,
+      "frame_share_within_year": 0.09238280094845339,
+      "frame_normalized_month_index": 0.947145995809568,
+      "same_year_version_month_share": 0.0784313725490196,
+      "local_neighbor_ratio": 0.4008569004571501
+    },
+    {
+      "month": "2022-12",
+      "year": "2022",
+      "calendar_month": 12,
+      "included_n": 39,
+      "frame_n": 15043,
+      "m0_retained_n": 2257,
+      "same_year_version_n": 14,
+      "identified_per10000_frame": 25.92567971814133,
+      "included_per_m0_retained": 0.017279574656623838,
+      "fulltext_candidates_n": 43,
+      "decision_counts": {
+        "included": 39,
+        "excluded": 4
+      },
+      "within_year_month_share": 0.24375,
+      "frame_share_within_year": 0.08088199712883158,
+      "frame_normalized_month_index": 3.0136496210862194,
+      "same_year_version_month_share": 0.13725490196078433,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2023-01",
+      "year": "2023",
+      "calendar_month": 1,
+      "included_n": 7,
+      "frame_n": 13708,
+      "m0_retained_n": 2057,
+      "same_year_version_n": 7,
+      "identified_per10000_frame": 5.106507149110009,
+      "included_per_m0_retained": 0.003403014098201264,
+      "fulltext_candidates_n": 11,
+      "decision_counts": {
+        "excluded": 4,
+        "included": 7
+      },
+      "within_year_month_share": 0.008130081300813009,
+      "frame_share_within_year": 0.06551829618017053,
+      "frame_normalized_month_index": 0.12408871681363445,
+      "same_year_version_month_share": 0.013806706114398421,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2023-02",
+      "year": "2023",
+      "calendar_month": 2,
+      "included_n": 17,
+      "frame_n": 14854,
+      "m0_retained_n": 2229,
+      "same_year_version_n": 13,
+      "identified_per10000_frame": 11.444728692608052,
+      "included_per_m0_retained": 0.00762673844773441,
+      "fulltext_candidates_n": 26,
+      "decision_counts": {
+        "included": 17,
+        "excluded": 8,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.019744483159117306,
+      "frame_share_within_year": 0.07099567927197645,
+      "frame_normalized_month_index": 0.2781082364671576,
+      "same_year_version_month_share": 0.02564102564102564,
+      "local_neighbor_ratio": 1.5913744930695823
+    },
+    {
+      "month": "2023-03",
+      "year": "2023",
+      "calendar_month": 3,
+      "included_n": 17,
+      "frame_n": 18325,
+      "m0_retained_n": 2749,
+      "same_year_version_n": 15,
+      "identified_per10000_frame": 9.27694406548431,
+      "included_per_m0_retained": 0.0061840669334303384,
+      "fulltext_candidates_n": 24,
+      "decision_counts": {
+        "included": 17,
+        "excluded": 7
+      },
+      "within_year_month_share": 0.019744483159117306,
+      "frame_share_within_year": 0.08758555423851948,
+      "frame_normalized_month_index": 0.2254308182528327,
+      "same_year_version_month_share": 0.029585798816568046,
+      "local_neighbor_ratio": 0.7025089507085054
+    },
+    {
+      "month": "2023-04",
+      "year": "2023",
+      "calendar_month": 4,
+      "included_n": 23,
+      "frame_n": 15368,
+      "m0_retained_n": 2306,
+      "same_year_version_n": 17,
+      "identified_per10000_frame": 14.966163456533055,
+      "included_per_m0_retained": 0.00997398091934085,
+      "fulltext_candidates_n": 30,
+      "decision_counts": {
+        "included": 23,
+        "excluded": 7
+      },
+      "within_year_month_share": 0.026713124274099883,
+      "frame_share_within_year": 0.07345237640041295,
+      "frame_normalized_month_index": 0.3636795102241199,
+      "same_year_version_month_share": 0.03353057199211045,
+      "local_neighbor_ratio": 0.41323715170581915
+    },
+    {
+      "month": "2023-05",
+      "year": "2023",
+      "calendar_month": 5,
+      "included_n": 125,
+      "frame_n": 19792,
+      "m0_retained_n": 2969,
+      "same_year_version_n": 91,
+      "identified_per10000_frame": 63.15683104284559,
+      "included_per_m0_retained": 0.04210171775008421,
+      "fulltext_candidates_n": 148,
+      "decision_counts": {
+        "included": 124,
+        "excluded": 22,
+        "included_partial_labels": 1,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.14518002322880372,
+      "frame_share_within_year": 0.09459717814399878,
+      "frame_normalized_month_index": 1.5347183296293063,
+      "same_year_version_month_share": 0.1794871794871795,
+      "local_neighbor_ratio": 2.2486071669294017
+    },
+    {
+      "month": "2023-06",
+      "year": "2023",
+      "calendar_month": 6,
+      "included_n": 73,
+      "frame_n": 17715,
+      "m0_retained_n": 2658,
+      "same_year_version_n": 54,
+      "identified_per10000_frame": 41.20801580581428,
+      "included_per_m0_retained": 0.02746425884123401,
+      "fulltext_candidates_n": 93,
+      "decision_counts": {
+        "included": 73,
+        "excluded": 20
+      },
+      "within_year_month_share": 0.08478513356562137,
+      "frame_share_within_year": 0.08467001873590028,
+      "frame_normalized_month_index": 1.0013595701458404,
+      "same_year_version_month_share": 0.10650887573964497,
+      "local_neighbor_ratio": 0.9270030055649252
+    },
+    {
+      "month": "2023-07",
+      "year": "2023",
+      "calendar_month": 7,
+      "included_n": 44,
+      "frame_n": 17088,
+      "m0_retained_n": 2564,
+      "same_year_version_n": 33,
+      "identified_per10000_frame": 25.74906367041198,
+      "included_per_m0_retained": 0.0171606864274571,
+      "fulltext_candidates_n": 54,
+      "decision_counts": {
+        "excluded": 10,
+        "included": 44
+      },
+      "within_year_month_share": 0.05110336817653891,
+      "frame_share_within_year": 0.08167323060451956,
+      "frame_normalized_month_index": 0.6257052377907407,
+      "same_year_version_month_share": 0.0650887573964497,
+      "local_neighbor_ratio": 0.623177771744586
+    },
+    {
+      "month": "2023-08",
+      "year": "2023",
+      "calendar_month": 8,
+      "included_n": 70,
+      "frame_n": 16896,
+      "m0_retained_n": 2535,
+      "same_year_version_n": 40,
+      "identified_per10000_frame": 41.42992424242424,
+      "included_per_m0_retained": 0.027613412228796843,
+      "fulltext_candidates_n": 87,
+      "decision_counts": {
+        "excluded": 16,
+        "semantic_unresolved": 1,
+        "included": 70
+      },
+      "within_year_month_share": 0.08130081300813008,
+      "frame_share_within_year": 0.08075555385615417,
+      "frame_normalized_month_index": 1.0067519709288002,
+      "same_year_version_month_share": 0.07889546351084813,
+      "local_neighbor_ratio": 1.245215420346047
+    },
+    {
+      "month": "2023-09",
+      "year": "2023",
+      "calendar_month": 9,
+      "included_n": 73,
+      "frame_n": 17895,
+      "m0_retained_n": 2685,
+      "same_year_version_n": 37,
+      "identified_per10000_frame": 40.79351774238614,
+      "included_per_m0_retained": 0.027188081936685288,
+      "fulltext_candidates_n": 90,
+      "decision_counts": {
+        "included": 73,
+        "excluded": 16,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.08478513356562137,
+      "frame_share_within_year": 0.08553034068749284,
+      "frame_normalized_month_index": 0.9912872190630658,
+      "same_year_version_month_share": 0.07297830374753451,
+      "local_neighbor_ratio": 0.6482174739453123
+    },
+    {
+      "month": "2023-10",
+      "year": "2023",
+      "calendar_month": 10,
+      "included_n": 172,
+      "frame_n": 20371,
+      "m0_retained_n": 3056,
+      "same_year_version_n": 96,
+      "identified_per10000_frame": 84.43375386578961,
+      "included_per_m0_retained": 0.056282722513089,
+      "fulltext_candidates_n": 199,
+      "decision_counts": {
+        "included": 172,
+        "excluded": 22,
+        "semantic_unresolved": 5
+      },
+      "within_year_month_share": 0.1997677119628339,
+      "frame_share_within_year": 0.09736454708828815,
+      "frame_normalized_month_index": 2.051750025414165,
+      "same_year_version_month_share": 0.1893491124260355,
+      "local_neighbor_ratio": 1.4114398831054291
+    },
+    {
+      "month": "2023-11",
+      "year": "2023",
+      "calendar_month": 11,
+      "included_n": 149,
+      "frame_n": 18897,
+      "m0_retained_n": 2835,
+      "same_year_version_n": 63,
+      "identified_per10000_frame": 78.84849447002169,
+      "included_per_m0_retained": 0.05255731922398589,
+      "fulltext_candidates_n": 172,
+      "decision_counts": {
+        "included": 148,
+        "excluded": 21,
+        "semantic_unresolved": 2,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.17305458768873402,
+      "frame_share_within_year": 0.0903194662180247,
+      "frame_normalized_month_index": 1.9160275734025343,
+      "same_year_version_month_share": 0.1242603550295858,
+      "local_neighbor_ratio": 1.1757919767537621
+    },
+    {
+      "month": "2023-12",
+      "year": "2023",
+      "calendar_month": 12,
+      "included_n": 91,
+      "frame_n": 18315,
+      "m0_retained_n": 2748,
+      "same_year_version_n": 41,
+      "identified_per10000_frame": 49.686049686049685,
+      "included_per_m0_retained": 0.033114992721979625,
+      "fulltext_candidates_n": 108,
+      "decision_counts": {
+        "included": 91,
+        "excluded": 13,
+        "semantic_unresolved": 4
+      },
+      "within_year_month_share": 0.10569105691056911,
+      "frame_share_within_year": 0.08753775857454212,
+      "frame_normalized_month_index": 1.2073767781084854,
+      "same_year_version_month_share": 0.08086785009861933,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2024-01",
+      "year": "2024",
+      "calendar_month": 1,
+      "included_n": 122,
+      "frame_n": 17623,
+      "m0_retained_n": 2644,
+      "same_year_version_n": 116,
+      "identified_per10000_frame": 69.22771378312433,
+      "included_per_m0_retained": 0.046142208774583963,
+      "fulltext_candidates_n": 136,
+      "decision_counts": {
+        "included": 122,
+        "excluded": 13,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.04460694698354662,
+      "frame_share_within_year": 0.07231669484431168,
+      "frame_normalized_month_index": 0.6168277889300597,
+      "same_year_version_month_share": 0.0627027027027027,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2024-02",
+      "year": "2024",
+      "calendar_month": 2,
+      "included_n": 254,
+      "frame_n": 19522,
+      "m0_retained_n": 2929,
+      "same_year_version_n": 217,
+      "identified_per10000_frame": 130.1096199159922,
+      "included_per_m0_retained": 0.08671901672925914,
+      "fulltext_candidates_n": 290,
+      "decision_counts": {
+        "semantic_unresolved": 2,
+        "included": 252,
+        "excluded": 34,
+        "included_partial_labels": 2
+      },
+      "within_year_month_share": 0.09287020109689213,
+      "frame_share_within_year": 0.08010931831984636,
+      "frame_normalized_month_index": 1.1592933636770741,
+      "same_year_version_month_share": 0.11729729729729729,
+      "local_neighbor_ratio": 1.6504697705090332
+    },
+    {
+      "month": "2024-03",
+      "year": "2024",
+      "calendar_month": 3,
+      "included_n": 184,
+      "frame_n": 20806,
+      "m0_retained_n": 3121,
+      "same_year_version_n": 160,
+      "identified_per10000_frame": 88.43602806882629,
+      "included_per_m0_retained": 0.05895546299263057,
+      "fulltext_candidates_n": 215,
+      "decision_counts": {
+        "included": 184,
+        "excluded": 27,
+        "semantic_unresolved": 4
+      },
+      "within_year_month_share": 0.06727605118829982,
+      "frame_share_within_year": 0.08537826436649541,
+      "frame_normalized_month_index": 0.787976327318041,
+      "same_year_version_month_share": 0.08648648648648649,
+      "local_neighbor_ratio": 0.8243767617864651
+    },
+    {
+      "month": "2024-04",
+      "year": "2024",
+      "calendar_month": 4,
+      "included_n": 163,
+      "frame_n": 19303,
+      "m0_retained_n": 2896,
+      "same_year_version_n": 139,
+      "identified_per10000_frame": 84.44283272030255,
+      "included_per_m0_retained": 0.056284530386740333,
+      "fulltext_candidates_n": 196,
+      "decision_counts": {
+        "included": 162,
+        "excluded": 31,
+        "semantic_unresolved": 2,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.059597806215722124,
+      "frame_share_within_year": 0.07921064294273099,
+      "frame_normalized_month_index": 0.7523964457504925,
+      "same_year_version_month_share": 0.07513513513513513,
+      "local_neighbor_ratio": 1.0407137818432233
+    },
+    {
+      "month": "2024-05",
+      "year": "2024",
+      "calendar_month": 5,
+      "included_n": 156,
+      "frame_n": 21126,
+      "m0_retained_n": 3169,
+      "same_year_version_n": 120,
+      "identified_per10000_frame": 73.84265833570008,
+      "included_per_m0_retained": 0.049226885452824234,
+      "fulltext_candidates_n": 180,
+      "decision_counts": {
+        "included": 156,
+        "excluded": 22,
+        "semantic_unresolved": 2
+      },
+      "within_year_month_share": 0.057038391224862886,
+      "frame_share_within_year": 0.0866913973376229,
+      "frame_normalized_month_index": 0.6579475354714232,
+      "same_year_version_month_share": 0.06486486486486487,
+      "local_neighbor_ratio": 0.5168759648281593
+    },
+    {
+      "month": "2024-06",
+      "year": "2024",
+      "calendar_month": 6,
+      "included_n": 417,
+      "frame_n": 20717,
+      "m0_retained_n": 3108,
+      "same_year_version_n": 300,
+      "identified_per10000_frame": 201.28396968673073,
+      "included_per_m0_retained": 0.13416988416988418,
+      "fulltext_candidates_n": 454,
+      "decision_counts": {
+        "included": 414,
+        "excluded": 37,
+        "included_partial_labels": 3
+      },
+      "within_year_month_share": 0.15246800731261426,
+      "frame_share_within_year": 0.08501304925890057,
+      "frame_normalized_month_index": 1.7934659283692425,
+      "same_year_version_month_share": 0.16216216216216217,
+      "local_neighbor_ratio": 2.257025490776974
+    },
+    {
+      "month": "2024-07",
+      "year": "2024",
+      "calendar_month": 7,
+      "included_n": 216,
+      "frame_n": 20666,
+      "m0_retained_n": 3100,
+      "same_year_version_n": 156,
+      "identified_per10000_frame": 104.51950062905256,
+      "included_per_m0_retained": 0.0696774193548387,
+      "fulltext_candidates_n": 254,
+      "decision_counts": {
+        "included": 214,
+        "excluded": 33,
+        "technical_unresolved": 4,
+        "included_partial_labels": 2,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.0789762340036563,
+      "frame_share_within_year": 0.08480376869162713,
+      "frame_normalized_month_index": 0.9312821260436955,
+      "same_year_version_month_share": 0.08432432432432432,
+      "local_neighbor_ratio": 0.7028628702980525
+    },
+    {
+      "month": "2024-08",
+      "year": "2024",
+      "calendar_month": 8,
+      "included_n": 171,
+      "frame_n": 17789,
+      "m0_retained_n": 2669,
+      "same_year_version_n": 109,
+      "identified_per10000_frame": 96.12681994490977,
+      "included_per_m0_retained": 0.06406893967778195,
+      "fulltext_candidates_n": 190,
+      "decision_counts": {
+        "included": 171,
+        "qualification_unresolved": 1,
+        "excluded": 18
+      },
+      "within_year_month_share": 0.06252285191956124,
+      "frame_share_within_year": 0.07299788257308405,
+      "frame_normalized_month_index": 0.8565022671303456,
+      "same_year_version_month_share": 0.05891891891891892,
+      "local_neighbor_ratio": 0.9366217036028699
+    },
+    {
+      "month": "2024-09",
+      "year": "2024",
+      "calendar_month": 9,
+      "included_n": 206,
+      "frame_n": 20448,
+      "m0_retained_n": 3068,
+      "same_year_version_n": 121,
+      "identified_per10000_frame": 100.7433489827856,
+      "included_per_m0_retained": 0.06714471968709257,
+      "fulltext_candidates_n": 226,
+      "decision_counts": {
+        "included": 205,
+        "excluded": 19,
+        "included_partial_labels": 1,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.0753199268738574,
+      "frame_share_within_year": 0.08390919685504654,
+      "frame_normalized_month_index": 0.8976361316385004,
+      "same_year_version_month_share": 0.0654054054054054,
+      "local_neighbor_ratio": 0.7816892482920896
+    },
+    {
+      "month": "2024-10",
+      "year": "2024",
+      "calendar_month": 10,
+      "included_n": 390,
+      "frame_n": 24129,
+      "m0_retained_n": 3620,
+      "same_year_version_n": 205,
+      "identified_per10000_frame": 161.63123212731566,
+      "included_per_m0_retained": 0.10773480662983426,
+      "fulltext_candidates_n": 425,
+      "decision_counts": {
+        "included": 390,
+        "excluded": 34,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.1425959780621572,
+      "frame_share_within_year": 0.09901432956354743,
+      "frame_normalized_month_index": 1.4401549623243075,
+      "same_year_version_month_share": 0.11081081081081082,
+      "local_neighbor_ratio": 1.6479895750617493
+    },
+    {
+      "month": "2024-11",
+      "year": "2024",
+      "calendar_month": 11,
+      "included_n": 193,
+      "frame_n": 20228,
+      "m0_retained_n": 3035,
+      "same_year_version_n": 91,
+      "identified_per10000_frame": 95.41229978247972,
+      "included_per_m0_retained": 0.06359143327841846,
+      "fulltext_candidates_n": 216,
+      "decision_counts": {
+        "included": 191,
+        "excluded": 22,
+        "included_partial_labels": 2,
+        "semantic_unresolved": 1
+      },
+      "within_year_month_share": 0.07056672760511883,
+      "frame_share_within_year": 0.08300641793739638,
+      "frame_normalized_month_index": 0.8501358010454132,
+      "same_year_version_month_share": 0.049189189189189186,
+      "local_neighbor_ratio": 0.6697883104321718
+    },
+    {
+      "month": "2024-12",
+      "year": "2024",
+      "calendar_month": 12,
+      "included_n": 263,
+      "frame_n": 21335,
+      "m0_retained_n": 3201,
+      "same_year_version_n": 116,
+      "identified_per10000_frame": 123.271619404734,
+      "included_per_m0_retained": 0.08216182442986567,
+      "fulltext_candidates_n": 305,
+      "decision_counts": {
+        "included": 263,
+        "excluded": 40,
+        "semantic_unresolved": 2
+      },
+      "within_year_month_share": 0.09616087751371115,
+      "frame_share_within_year": 0.08754903730939054,
+      "frame_normalized_month_index": 1.0983659040577125,
+      "same_year_version_month_share": 0.0627027027027027,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2025-01",
+      "year": "2025",
+      "calendar_month": 1,
+      "included_n": 181,
+      "frame_n": 18932,
+      "m0_retained_n": 2840,
+      "same_year_version_n": 167,
+      "identified_per10000_frame": 95.605324318614,
+      "included_per_m0_retained": 0.06373239436619718,
+      "fulltext_candidates_n": 206,
+      "decision_counts": {
+        "included": 180,
+        "excluded": 19,
+        "semantic_unresolved": 4,
+        "included_partial_labels": 1,
+        "technical_unresolved": 2
+      },
+      "within_year_month_share": 0.03429979154822816,
+      "frame_share_within_year": 0.06662396801824312,
+      "frame_normalized_month_index": 0.5148266092292209,
+      "same_year_version_month_share": 0.04126513466765505,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2025-02",
+      "year": "2025",
+      "calendar_month": 2,
+      "included_n": 391,
+      "frame_n": 21532,
+      "m0_retained_n": 3230,
+      "same_year_version_n": 356,
+      "identified_per10000_frame": 181.59019134311723,
+      "included_per_m0_retained": 0.12105263157894737,
+      "fulltext_candidates_n": 433,
+      "decision_counts": {
+        "included": 390,
+        "excluded": 38,
+        "semantic_unresolved": 4,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.07409512980860337,
+      "frame_share_within_year": 0.0757736783947185,
+      "frame_normalized_month_index": 0.9778478672056637,
+      "same_year_version_month_share": 0.08796639486039042,
+      "local_neighbor_ratio": 1.442093248193681
+    },
+    {
+      "month": "2025-03",
+      "year": "2025",
+      "calendar_month": 3,
+      "included_n": 381,
+      "frame_n": 24386,
+      "m0_retained_n": 3658,
+      "same_year_version_n": 329,
+      "identified_per10000_frame": 156.23718527023703,
+      "included_per_m0_retained": 0.10415527610716238,
+      "fulltext_candidates_n": 422,
+      "decision_counts": {
+        "included": 381,
+        "excluded": 36,
+        "semantic_unresolved": 3,
+        "technical_unresolved": 2
+      },
+      "within_year_month_share": 0.07220011370096646,
+      "frame_share_within_year": 0.08581724509258803,
+      "frame_normalized_month_index": 0.8413240674769963,
+      "same_year_version_month_share": 0.08129478626142822,
+      "local_neighbor_ratio": 0.9700054694227364
+    },
+    {
+      "month": "2025-04",
+      "year": "2025",
+      "calendar_month": 4,
+      "included_n": 305,
+      "frame_n": 21701,
+      "m0_retained_n": 3256,
+      "same_year_version_n": 266,
+      "identified_per10000_frame": 140.5465185936132,
+      "included_per_m0_retained": 0.09367321867321868,
+      "fulltext_candidates_n": 339,
+      "decision_counts": {
+        "included": 305,
+        "semantic_unresolved": 3,
+        "excluded": 29,
+        "technical_unresolved": 2
+      },
+      "within_year_month_share": 0.057797991282925905,
+      "frame_share_within_year": 0.0763684095691894,
+      "frame_normalized_month_index": 0.756831150589318,
+      "same_year_version_month_share": 0.06572769953051644,
+      "local_neighbor_ratio": 0.6605422704257333
+    },
+    {
+      "month": "2025-05",
+      "year": "2025",
+      "calendar_month": 5,
+      "included_n": 691,
+      "frame_n": 25658,
+      "m0_retained_n": 3849,
+      "same_year_version_n": 538,
+      "identified_per10000_frame": 269.3117156442435,
+      "included_per_m0_retained": 0.1795271499090673,
+      "fulltext_candidates_n": 761,
+      "decision_counts": {
+        "included": 690,
+        "excluded": 64,
+        "technical_unresolved": 2,
+        "semantic_unresolved": 4,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.13094561303771082,
+      "frame_share_within_year": 0.09029356493830984,
+      "frame_normalized_month_index": 1.4502208781675103,
+      "same_year_version_month_share": 0.13293797874969113,
+      "local_neighbor_ratio": 1.473585818434938
+    },
+    {
+      "month": "2025-06",
+      "year": "2025",
+      "calendar_month": 6,
+      "included_n": 529,
+      "frame_n": 23514,
+      "m0_retained_n": 3528,
+      "same_year_version_n": 436,
+      "identified_per10000_frame": 224.97235689376544,
+      "included_per_m0_retained": 0.14994331065759636,
+      "fulltext_candidates_n": 570,
+      "decision_counts": {
+        "included": 527,
+        "excluded": 36,
+        "included_partial_labels": 2,
+        "qualification_unresolved": 1,
+        "semantic_unresolved": 3,
+        "technical_unresolved": 1
+      },
+      "within_year_month_share": 0.1002463520939928,
+      "frame_share_within_year": 0.0827485729970932,
+      "frame_normalized_month_index": 1.2114571703552428,
+      "same_year_version_month_share": 0.10773412404250061,
+      "local_neighbor_ratio": 1.0717045505389933
+    },
+    {
+      "month": "2025-07",
+      "year": "2025",
+      "calendar_month": 7,
+      "included_n": 356,
+      "frame_n": 23650,
+      "m0_retained_n": 3548,
+      "same_year_version_n": 287,
+      "identified_per10000_frame": 150.52854122621565,
+      "included_per_m0_retained": 0.10033821871476889,
+      "fulltext_candidates_n": 379,
+      "decision_counts": {
+        "included": 356,
+        "excluded": 20,
+        "semantic_unresolved": 2,
+        "technical_unresolved": 1
+      },
+      "within_year_month_share": 0.06746257343187417,
+      "frame_share_within_year": 0.08322717323217038,
+      "frame_normalized_month_index": 0.8105835006997137,
+      "same_year_version_month_share": 0.07091672844082036,
+      "local_neighbor_ratio": 0.709834957354558
+    },
+    {
+      "month": "2025-08",
+      "year": "2025",
+      "calendar_month": 8,
+      "included_n": 450,
+      "frame_n": 22596,
+      "m0_retained_n": 3390,
+      "same_year_version_n": 350,
+      "identified_per10000_frame": 199.15029208709504,
+      "included_per_m0_retained": 0.13274336283185842,
+      "fulltext_candidates_n": 487,
+      "decision_counts": {
+        "included": 448,
+        "excluded": 33,
+        "technical_unresolved": 1,
+        "included_partial_labels": 2,
+        "semantic_unresolved": 3
+      },
+      "within_year_month_share": 0.08527572484366117,
+      "frame_share_within_year": 0.07951802141032228,
+      "frame_normalized_month_index": 1.072407528900002,
+      "same_year_version_month_share": 0.08648381517173215,
+      "local_neighbor_ratio": 1.1452286215204541
+    },
+    {
+      "month": "2025-09",
+      "year": "2025",
+      "calendar_month": 9,
+      "included_n": 516,
+      "frame_n": 26158,
+      "m0_retained_n": 3924,
+      "same_year_version_n": 362,
+      "identified_per10000_frame": 197.2627876748987,
+      "included_per_m0_retained": 0.13149847094801223,
+      "fulltext_candidates_n": 557,
+      "decision_counts": {
+        "included": 515,
+        "excluded": 35,
+        "semantic_unresolved": 5,
+        "technical_unresolved": 1,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.0977828311540648,
+      "frame_share_within_year": 0.09205312462609357,
+      "frame_normalized_month_index": 1.0622434768102058,
+      "same_year_version_month_share": 0.08944897454904868,
+      "local_neighbor_ratio": 0.9303407415544072
+    },
+    {
+      "month": "2025-10",
+      "year": "2025",
+      "calendar_month": 10,
+      "included_n": 618,
+      "frame_n": 27477,
+      "m0_retained_n": 4122,
+      "same_year_version_n": 389,
+      "identified_per10000_frame": 224.91538377552135,
+      "included_per_m0_retained": 0.14992721979621543,
+      "fulltext_candidates_n": 673,
+      "decision_counts": {
+        "included": 617,
+        "excluded": 44,
+        "semantic_unresolved": 10,
+        "technical_unresolved": 1,
+        "included_partial_labels": 1
+      },
+      "within_year_month_share": 0.11711199545196134,
+      "frame_share_within_year": 0.09669484308246705,
+      "frame_normalized_month_index": 1.21115037491794,
+      "same_year_version_month_share": 0.09612058314801088,
+      "local_neighbor_ratio": 1.1610264425430712
+    },
+    {
+      "month": "2025-11",
+      "year": "2025",
+      "calendar_month": 11,
+      "included_n": 464,
+      "frame_n": 24398,
+      "m0_retained_n": 3660,
+      "same_year_version_n": 319,
+      "identified_per10000_frame": 190.1795229117141,
+      "included_per_m0_retained": 0.126775956284153,
+      "fulltext_candidates_n": 524,
+      "decision_counts": {
+        "included": 462,
+        "excluded": 53,
+        "semantic_unresolved": 6,
+        "included_partial_labels": 2,
+        "technical_unresolved": 1
+      },
+      "within_year_month_share": 0.08792874739435286,
+      "frame_share_within_year": 0.08585947452509483,
+      "frame_normalized_month_index": 1.0241006933795433,
+      "same_year_version_month_share": 0.07882382011366444,
+      "local_neighbor_ratio": 0.9792751445424531
+    },
+    {
+      "month": "2025-12",
+      "year": "2025",
+      "calendar_month": 12,
+      "included_n": 395,
+      "frame_n": 24160,
+      "m0_retained_n": 3624,
+      "same_year_version_n": 248,
+      "identified_per10000_frame": 163.4933774834437,
+      "included_per_m0_retained": 0.10899558498896247,
+      "fulltext_candidates_n": 439,
+      "decision_counts": {
+        "included": 395,
+        "excluded": 38,
+        "semantic_unresolved": 6
+      },
+      "within_year_month_share": 0.07485313625165814,
+      "frame_share_within_year": 0.08502192411370979,
+      "frame_normalized_month_index": 0.8803980506433642,
+      "same_year_version_month_share": 0.061279960464541636,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2026-01",
+      "year": "2026",
+      "calendar_month": 1,
+      "included_n": 610,
+      "frame_n": 24135,
+      "m0_retained_n": 3621,
+      "same_year_version_n": 610,
+      "identified_per10000_frame": 252.7449761756785,
+      "included_per_m0_retained": 0.16846175089754212,
+      "fulltext_candidates_n": 675,
+      "decision_counts": {
+        "included": 608,
+        "excluded": 52,
+        "semantic_unresolved": 12,
+        "technical_unresolved": 1,
+        "included_partial_labels": 2
+      },
+      "within_year_month_share": 0.10638297872340426,
+      "frame_share_within_year": 0.10480264014937687,
+      "frame_normalized_month_index": 1.0150791866671955,
+      "same_year_version_month_share": 0.10638297872340426,
+      "local_neighbor_ratio": null
+    },
+    {
+      "month": "2026-02",
+      "year": "2026",
+      "calendar_month": 2,
+      "included_n": 585,
+      "frame_n": 24378,
+      "m0_retained_n": 3657,
+      "same_year_version_n": 585,
+      "identified_per10000_frame": 239.9704651735171,
+      "included_per_m0_retained": 0.15996718621821165,
+      "fulltext_candidates_n": 631,
+      "decision_counts": {
+        "included": 585,
+        "excluded": 41,
+        "semantic_unresolved": 3,
+        "technical_unresolved": 2
+      },
+      "within_year_month_share": 0.10202302057900244,
+      "frame_share_within_year": 0.10585783142993617,
+      "frame_normalized_month_index": 0.9637739522987312,
+      "same_year_version_month_share": 0.10202302057900244,
+      "local_neighbor_ratio": 1.027505098013876
+    },
+    {
+      "month": "2026-03",
+      "year": "2026",
+      "calendar_month": 3,
+      "included_n": 634,
+      "frame_n": 29578,
+      "m0_retained_n": 4437,
+      "same_year_version_n": 634,
+      "identified_per10000_frame": 214.3485022651971,
+      "included_per_m0_retained": 0.14288933964390355,
+      "fulltext_candidates_n": 699,
+      "decision_counts": {
+        "included": 634,
+        "semantic_unresolved": 5,
+        "excluded": 57,
+        "technical_unresolved": 3
+      },
+      "within_year_month_share": 0.11056853854203,
+      "frame_share_within_year": 0.1284380563637153,
+      "frame_normalized_month_index": 0.8608705369140608,
+      "same_year_version_month_share": 0.11056853854203,
+      "local_neighbor_ratio": 0.8755782721055237
+    },
+    {
+      "month": "2026-04",
+      "year": "2026",
+      "calendar_month": 4,
+      "included_n": 704,
+      "frame_n": 28200,
+      "m0_retained_n": 4230,
+      "same_year_version_n": 704,
+      "identified_per10000_frame": 249.645390070922,
+      "included_per_m0_retained": 0.16643026004728131,
+      "fulltext_candidates_n": 757,
+      "decision_counts": {
+        "included": 703,
+        "excluded": 43,
+        "semantic_unresolved": 8,
+        "included_partial_labels": 1,
+        "technical_unresolved": 2
+      },
+      "within_year_month_share": 0.12277642134635508,
+      "frame_share_within_year": 0.12245429675626385,
+      "frame_normalized_month_index": 1.0026305699238336,
+      "same_year_version_month_share": 0.12277642134635508,
+      "local_neighbor_ratio": 0.9870186216051525
+    },
+    {
+      "month": "2026-05",
+      "year": "2026",
+      "calendar_month": 5,
+      "included_n": 963,
+      "frame_n": 33035,
+      "m0_retained_n": 4956,
+      "same_year_version_n": 963,
+      "identified_per10000_frame": 291.5090056001211,
+      "included_per_m0_retained": 0.19430992736077482,
+      "fulltext_candidates_n": 1047,
+      "decision_counts": {
+        "included": 961,
+        "excluded": 71,
+        "included_partial_labels": 2,
+        "technical_unresolved": 4,
+        "semantic_unresolved": 9
+      },
+      "within_year_month_share": 0.16794558772235788,
+      "frame_share_within_year": 0.14344956359372965,
+      "frame_normalized_month_index": 1.1707640198753382,
+      "same_year_version_month_share": 0.16794558772235788,
+      "local_neighbor_ratio": 1.1414421043078353
+    },
+    {
+      "month": "2026-06",
+      "year": "2026",
+      "calendar_month": 6,
+      "included_n": 809,
+      "frame_n": 30981,
+      "m0_retained_n": 4648,
+      "same_year_version_n": 809,
+      "identified_per10000_frame": 261.1277879990962,
+      "included_per_m0_retained": 0.17405335628227195,
+      "fulltext_candidates_n": 871,
+      "decision_counts": {
+        "included": 809,
+        "excluded": 56,
+        "semantic_unresolved": 5,
+        "technical_unresolved": 1
+      },
+      "within_year_month_share": 0.1410882455528427,
+      "frame_share_within_year": 0.13453037474488688,
+      "frame_normalized_month_index": 1.0487463951571654,
+      "same_year_version_month_share": 0.1410882455528427,
+      "local_neighbor_ratio": 1.0355231028682752
+    },
+    {
+      "month": "2026-07",
+      "year": "2026",
+      "calendar_month": 7,
+      "included_n": 628,
+      "frame_n": 29507,
+      "m0_retained_n": 4427,
+      "same_year_version_n": 628,
+      "identified_per10000_frame": 212.8308536957332,
+      "included_per_m0_retained": 0.14185678789247796,
+      "fulltext_candidates_n": 688,
+      "decision_counts": {
+        "included": 628,
+        "excluded": 47,
+        "semantic_unresolved": 8,
+        "technical_unresolved": 5
+      },
+      "within_year_month_share": 0.10952214858737357,
+      "frame_share_within_year": 0.12812974944635025,
+      "frame_normalized_month_index": 0.8547753278268295,
+      "same_year_version_month_share": 0.10952214858737357,
+      "local_neighbor_ratio": 0.8123973073255085
+    },
+    {
+      "month": "2026-08",
+      "year": "2026",
+      "calendar_month": 8,
+      "included_n": 801,
+      "frame_n": 30476,
+      "m0_retained_n": 4572,
+      "same_year_version_n": 801,
+      "identified_per10000_frame": 262.82976768604806,
+      "included_per_m0_retained": 0.17519685039370078,
+      "fulltext_candidates_n": 876,
+      "decision_counts": {
+        "included": 799,
+        "excluded": 65,
+        "semantic_unresolved": 7,
+        "included_partial_labels": 2,
+        "technical_unresolved": 3
+      },
+      "within_year_month_share": 0.1396930589466341,
+      "frame_share_within_year": 0.132337487515741,
+      "frame_normalized_month_index": 1.0555819183889084,
+      "same_year_version_month_share": 0.1396930589466341,
+      "local_neighbor_ratio": null
+    }
+  ],
+  "role_counts": [
+    {
+      "window": "full_observed",
+      "year": "all",
+      "included_n": 14767,
+      "valid_n": 14763,
+      "generated_and_llm_judge_n": 3272,
+      "generated_and_llm_judge_share": 0.22163516900359007,
+      "generated_and_any_learned_judge_n": 3696,
+      "generated_and_any_learned_judge_share": 0.2503556187766714,
+      "within_llm_intersection": {
+        "human_material_n": 2530,
+        "human_judge_n": 226,
+        "any_additional_scoring_n": 2020,
+        "exact_model_material_and_llm_scoring_n": 359,
+        "model_only_material_n": 587,
+        "llm_only_scoring_n": 1252,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 2163
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 587
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 367
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 155
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 1252
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 1159
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 251
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 182
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 114
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 110
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 71
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 70
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 20
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 10
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 9
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 8
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 7
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 7
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "full_observed",
+      "year": "2022",
+      "included_n": 160,
+      "valid_n": 160,
+      "generated_and_llm_judge_n": 0,
+      "generated_and_llm_judge_share": 0.0,
+      "generated_and_any_learned_judge_n": 7,
+      "generated_and_any_learned_judge_share": 0.04375,
+      "within_llm_intersection": {
+        "human_material_n": 0,
+        "human_judge_n": 0,
+        "any_additional_scoring_n": 0,
+        "exact_model_material_and_llm_scoring_n": 0,
+        "model_only_material_n": 0,
+        "llm_only_scoring_n": 0,
+        "material_patterns": [],
+        "scoring_patterns": []
+      }
+    },
+    {
+      "window": "full_observed",
+      "year": "2023",
+      "included_n": 861,
+      "valid_n": 861,
+      "generated_and_llm_judge_n": 81,
+      "generated_and_llm_judge_share": 0.09407665505226481,
+      "generated_and_any_learned_judge_n": 118,
+      "generated_and_any_learned_judge_share": 0.13704994192799072,
+      "within_llm_intersection": {
+        "human_material_n": 62,
+        "human_judge_n": 16,
+        "any_additional_scoring_n": 51,
+        "exact_model_material_and_llm_scoring_n": 12,
+        "model_only_material_n": 17,
+        "llm_only_scoring_n": 30,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 57
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 17
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 2
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 30
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 24
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 7
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "full_observed",
+      "year": "2024",
+      "included_n": 2735,
+      "valid_n": 2733,
+      "generated_and_llm_judge_n": 495,
+      "generated_and_llm_judge_share": 0.18111964873765093,
+      "generated_and_any_learned_judge_n": 614,
+      "generated_and_any_learned_judge_share": 0.22466154409074277,
+      "within_llm_intersection": {
+        "human_material_n": 403,
+        "human_judge_n": 49,
+        "any_additional_scoring_n": 308,
+        "exact_model_material_and_llm_scoring_n": 55,
+        "model_only_material_n": 79,
+        "llm_only_scoring_n": 187,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 344
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 79
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 59
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 13
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 187
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 171
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 35
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 22
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 19
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 17
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 16
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 16
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 6
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "full_observed",
+      "year": "2025",
+      "included_n": 5277,
+      "valid_n": 5275,
+      "generated_and_llm_judge_n": 1246,
+      "generated_and_llm_judge_share": 0.2362085308056872,
+      "generated_and_any_learned_judge_n": 1387,
+      "generated_and_any_learned_judge_share": 0.26293838862559243,
+      "within_llm_intersection": {
+        "human_material_n": 987,
+        "human_judge_n": 92,
+        "any_additional_scoring_n": 802,
+        "exact_model_material_and_llm_scoring_n": 132,
+        "model_only_material_n": 215,
+        "llm_only_scoring_n": 444,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 854
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 215
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 133
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 44
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 486
+          },
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 444
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 75
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 73
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 44
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 40
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 36
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 22
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 7
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "full_observed",
+      "year": "2026",
+      "included_n": 5734,
+      "valid_n": 5734,
+      "generated_and_llm_judge_n": 1450,
+      "generated_and_llm_judge_share": 0.25287757237530517,
+      "generated_and_any_learned_judge_n": 1570,
+      "generated_and_any_learned_judge_share": 0.2738053714684339,
+      "within_llm_intersection": {
+        "human_material_n": 1078,
+        "human_judge_n": 69,
+        "any_additional_scoring_n": 859,
+        "exact_model_material_and_llm_scoring_n": 160,
+        "model_only_material_n": 276,
+        "llm_only_scoring_n": 591,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 908
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 276
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 170
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 96
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 591
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 478
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 159
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 70
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 50
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 41
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 28
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 12
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 3
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "matched_jan_aug",
+      "year": "2022",
+      "included_n": 69,
+      "valid_n": 69,
+      "generated_and_llm_judge_n": 0,
+      "generated_and_llm_judge_share": 0.0,
+      "generated_and_any_learned_judge_n": 2,
+      "generated_and_any_learned_judge_share": 0.028985507246376812,
+      "within_llm_intersection": {
+        "human_material_n": 0,
+        "human_judge_n": 0,
+        "any_additional_scoring_n": 0,
+        "exact_model_material_and_llm_scoring_n": 0,
+        "model_only_material_n": 0,
+        "llm_only_scoring_n": 0,
+        "material_patterns": [],
+        "scoring_patterns": []
+      }
+    },
+    {
+      "window": "matched_jan_aug",
+      "year": "2023",
+      "included_n": 376,
+      "valid_n": 376,
+      "generated_and_llm_judge_n": 26,
+      "generated_and_llm_judge_share": 0.06914893617021277,
+      "generated_and_any_learned_judge_n": 40,
+      "generated_and_any_learned_judge_share": 0.10638297872340426,
+      "within_llm_intersection": {
+        "human_material_n": 18,
+        "human_judge_n": 7,
+        "any_additional_scoring_n": 15,
+        "exact_model_material_and_llm_scoring_n": 6,
+        "model_only_material_n": 7,
+        "llm_only_scoring_n": 11,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 17
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 7
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 1
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 11
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 6
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "matched_jan_aug",
+      "year": "2024",
+      "included_n": 1683,
+      "valid_n": 1681,
+      "generated_and_llm_judge_n": 283,
+      "generated_and_llm_judge_share": 0.1683521713265913,
+      "generated_and_any_learned_judge_n": 358,
+      "generated_and_any_learned_judge_share": 0.21296847114812612,
+      "within_llm_intersection": {
+        "human_material_n": 228,
+        "human_judge_n": 33,
+        "any_additional_scoring_n": 178,
+        "exact_model_material_and_llm_scoring_n": 33,
+        "model_only_material_n": 45,
+        "llm_only_scoring_n": 105,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 194
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 45
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 34
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 10
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 105
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 101
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 20
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 14
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 11
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 10
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 8
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 6
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "matched_jan_aug",
+      "year": "2025",
+      "included_n": 3284,
+      "valid_n": 3282,
+      "generated_and_llm_judge_n": 764,
+      "generated_and_llm_judge_share": 0.2327848872638635,
+      "generated_and_any_learned_judge_n": 854,
+      "generated_and_any_learned_judge_share": 0.26020719073735527,
+      "within_llm_intersection": {
+        "human_material_n": 617,
+        "human_judge_n": 64,
+        "any_additional_scoring_n": 507,
+        "exact_model_material_and_llm_scoring_n": 68,
+        "model_only_material_n": 121,
+        "llm_only_scoring_n": 257,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 532
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 121
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 85
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 26
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 312
+          },
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 257
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 44
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 42
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 28
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 25
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 24
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 16
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 1
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    },
+    {
+      "window": "matched_jan_aug",
+      "year": "2026",
+      "included_n": 5734,
+      "valid_n": 5734,
+      "generated_and_llm_judge_n": 1450,
+      "generated_and_llm_judge_share": 0.25287757237530517,
+      "generated_and_any_learned_judge_n": 1570,
+      "generated_and_any_learned_judge_share": 0.2738053714684339,
+      "within_llm_intersection": {
+        "human_material_n": 1078,
+        "human_judge_n": 69,
+        "any_additional_scoring_n": 859,
+        "exact_model_material_and_llm_scoring_n": 160,
+        "model_only_material_n": 276,
+        "llm_only_scoring_n": 591,
+        "material_patterns": [
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world"
+            ],
+            "n": 908
+          },
+          {
+            "tags": [
+              "generative_model"
+            ],
+            "n": 276
+          },
+          {
+            "tags": [
+              "generative_model",
+              "human_or_real_world",
+              "program_or_simulation"
+            ],
+            "n": 170
+          },
+          {
+            "tags": [
+              "generative_model",
+              "program_or_simulation"
+            ],
+            "n": 96
+          }
+        ],
+        "scoring_patterns": [
+          {
+            "tags": [
+              "llm_judge"
+            ],
+            "n": 591
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 478
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge"
+            ],
+            "n": 159
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 70
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 50
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 41
+          },
+          {
+            "tags": [
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 28
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 12
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 5
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "reference_or_metric"
+            ],
+            "n": 4
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge",
+              "reference_or_metric"
+            ],
+            "n": 3
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 2
+          },
+          {
+            "tags": [
+              "execution_or_environment",
+              "human_judge",
+              "llm_judge",
+              "other_model_judge"
+            ],
+            "n": 1
+          }
+        ]
+      }
+    }
+  ]
+}
