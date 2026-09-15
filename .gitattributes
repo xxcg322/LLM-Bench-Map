@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+*.png binary
+*.gz binary
+# Retain the precise archived source bytes in these scientific inputs.
+methods/** -text
+data/inputs/** -text
+data/papers.csv -text
